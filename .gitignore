@@ -1,0 +1,5 @@
+Data/
+data_zip/
+__pycache__/
+Tensors/
+venv/
