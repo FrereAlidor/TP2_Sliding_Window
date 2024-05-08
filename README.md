@@ -1,13 +1,13 @@
 
 ```shell
-python3 ./preprocess.py# Détecteur de visage et d'pbjet avec la technique sliding windows
+python3 ./preprocess.py# Détecteur d'pbjet avec la technique sliding windows
 
 
 
 ## Demarrage
 
 
-### Cloner le project
+### Cloner le project de la branch tp2
 
 Tout d'abord, vous devez cloner le projet sur votre ordinateur avec :
 
