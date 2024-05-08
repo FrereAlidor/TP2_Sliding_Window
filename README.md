@@ -1,16 +1,3 @@
-# Cars Detection
-IFI-VNU: Computer Vision Project : TP2
-
-Implementation of a sliding window model using CNN for object detection in our case: cars.
-
-* Data-set included - Vehicles and Non-Vehicles (approx 8k each).
-* Sample test images included.
-* Sample video included.
-
-### Run instructions
-
-* Download data zip files and code files.
-* Extract vehicles and non-vehicles into `Data/`.
 
 ```shell
 python3 ./preprocess.py# Détecteur de visage et d'pbjet avec la technique sliding windows
